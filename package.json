@@ -1,0 +1,23 @@
+{
+  "name": "netpie-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chavee/netpie-hub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chavee/netpie-hub/issues"
+  },
+  "homepage": "https://github.com/chavee/netpie-hub#readme",
+  "dependencies": {
+    "microgear": "^0.8.1",
+    "mosca": "^2.8.3"
+  }
+}
