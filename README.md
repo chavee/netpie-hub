@@ -1,6 +1,6 @@
 # netpie-hub
 
-A very simple local MQTT bridge with NETPIE 
+A very simple local MQTT broker bridge with NETPIE 
 
 Note
 
